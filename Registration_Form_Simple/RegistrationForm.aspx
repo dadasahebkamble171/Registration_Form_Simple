@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <h1>Hello dk</h1>
+            <h2>Welcome</h2>
             
             <asp:Label ID="Label2" runat="server" style="z-index: 1; left: 241px; top: 180px; position: absolute" Text="Name"></asp:Label>
             <asp:Label ID="Label3" runat="server" style="z-index: 1; left: 242px; top: 269px; position: absolute; height: 22px" Text="Age"></asp:Label>
